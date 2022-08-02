@@ -1,4 +1,7 @@
 # turtle-examples
+# DEPRECATED methods
+# use most recent crate
+
 Examples using the turtle (graphics) crate
 use turtle::Turtle;
 
